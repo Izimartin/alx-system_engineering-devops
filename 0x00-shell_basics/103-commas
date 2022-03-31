@@ -1,2 +1,4 @@
 #!/bin/bash
 ls -map
+#!/bin/bash
+ls -map
