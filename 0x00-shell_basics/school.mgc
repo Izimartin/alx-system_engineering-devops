@@ -1,2 +1,5 @@
 #!/bin/bash
 0 school = SCHOOL
+/tmp/magic$ file --mime-type -m school.mgc *
+/tmp/magic$ file -mime-type -m school.mgc *
+/tmp/magic$
