@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 paste - - | cut -f 1
+=======
+cat -n | grep [13579][[:space:]] | tr -s ' ' | cut -f2
+
+>>>>>>> 69338923ec089bdadbc02ef7ce1ae4100612e860
